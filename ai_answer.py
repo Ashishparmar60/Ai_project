@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "######################################"
 
 model = "davinci"
 question = "how old was gandhi was when he died ?"
